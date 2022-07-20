@@ -1,6 +1,4 @@
-gunicorn
 streamlit
 opencv-python
 pandas
 torch
-torchvision
