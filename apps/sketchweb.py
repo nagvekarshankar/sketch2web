@@ -71,7 +71,7 @@ def app():
     #print(image_file)
 
     #Model
-    model = torch.hub.load('sketch2web/yolov5', 'custom', path='sketch2web/yolov5/train/best.pt', source='local')  # local repo
+    model = torch.hub.load('yolov5', 'custom', path='yolov5/train/best.pt', source='local')  # local repo
 
     if image_file is not None:
 
