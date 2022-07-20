@@ -32,7 +32,6 @@ certifi
 clyent
 colorlover
 commonmark
-conda-verify
 contextlib2
 coverage
 cufflinks
