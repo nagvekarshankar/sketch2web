@@ -1,6 +1,6 @@
 # sketch2web
-Convert your hand drawn sketch to HTML wireframe.
-Currently have handled only Text Field, Checkbox and Select Option
+1. Convert your hand drawn sketch to HTML wireframe.
+2. Currently have handled only Text Field, Checkbox and Select Option
 
 
 # How to Run
