@@ -1,2 +1,10 @@
 gunicorn
 streamlit==0.62.1
+olefile==0.46
+opencv-python==4.5.3.56
+opencv-python-headless==4.5.4.60
+opendatasets==0.1.22
+opt-einsum==3.3.0
+packaging==21.3
+pandas==1.2.4
+pandas-profiling==3.0.0
