@@ -117,7 +117,6 @@ QtPy==1.9.0
 requests-oauthlib==1.3.0
 resampy==0.2.2
 rich==12.4.4
-rope @ file:///tmp/build/80754af9/rope_1602264064449/work
 rsa==4.7.2
 scikit-image==0.18.1
 semver==2.13.0
@@ -126,11 +125,9 @@ simplegeneric==0.8.1
 smart-open==5.2.1
 smmap==5.0.0
 SoundFile==0.10.3.post1
-statsmodels_1614023740731/work
 streamlit==1.11.0
 tables==3.6.1
 tangled-up-in-unicode==0.1.0
-tenacity_1632761170899/work
 tensorboard==2.4.1
 tensorboard-data-server==0.6.1
 tensorboard-plugin-wit==1.8.0
@@ -148,4 +145,3 @@ torchvision==0.10.0
 typing_extensions==4.3.0
 tzdata==2022.1
 tzlocal==4.2
-
