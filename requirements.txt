@@ -1,9 +1,6 @@
 gunicorn
 streamlit
-olefile
 opencv-python
-opencv-python-headless
 pandas
-pandas-profiling
 torch
 torchvision
